@@ -1,17 +1,17 @@
 hempd
 =====
 
-*This is a fork of hempd adding simple sorting of the artist and song lists*
+*Это fork hempd, добавляющая простую сортировку списков исполнителя и песен*
 
 mpd webclient
-based on php, jquery and bootstrap
+базируется на php, jquery и bootstrap
 
-Just an experiment but already working.
+Просто эксперимент, но уже работающий.
 
-Enjoy!
+Наслаждайтесь!
 
 
-## Install
+## Установка
 
 * unzip it into your http docs directory
 * if you like, chanche mpd/mpdconfig.php
